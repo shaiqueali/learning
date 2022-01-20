@@ -1,0 +1,51 @@
+In
+this article, I will be sharing some of the common interview questions related to advance java, collections, multithreading, synchronization, serialization & other important topics.
+Singleton: What is Singleton Class, Create a Singleton Class, Method. Is it thread-safe, if not then how you can make singleton thread-safe? Synchronized Singleton.
+What is Object level locking & class level locking? Use Synchronization in this. Different types of locks. Reintrant Lock.
+Collection: Difference between Map() & flatMap(), Difference between HashMap() & LinkedHashMap(), What is concurrent hash map, use of concurrent hash map, HashMap() Vs HashSet(), Fail Fast Vs Fail Safe, Which collection is fail fast & fail safe; reasons & main difference between fail fast & fail safe.
+Fork & Execute.
+Compare & Comparable: DIfference between compare & comparable, Sort using two params in compare() collection first by using name & then by price.
+Collections.sort()
+Java 8: Streams, Lambda Expression & Functions, How to create generic lambda function, create generic lambda expression, create a lambda expression with the sum of two numbers. Optional in Java 8, why use optional, different methods of Optional.
+The contract between Equal & HashCode and give example.
+What is Prototype Inheritance, Examples?
+Diamond Problem in java, how to overcome it.
+Semaphor in Java.
+How to take HeapDump.
+What is Shallow & Deep copy? Deep copy of Singleton.
+Describe the Singleton Instance.
+Can we create our own custom annotations in java, give an example of how to create them.
+Multithreading: Difference between Run & Start, Lambda Expression for thread, lambda expression to start a thread, connection pool in the thread, Blocking Queue. When does a new thread get created, the lifecycle of thread, Ways to communicate between threads, threads in singleton class.
+REST APIs: What is the difference between REST & SOAP, JWT tokens, Session Management, Difference between GET, PUT, POST, DELETE, PATCH, Difference between GET & POST Caching, Full end-to-end REST API creation & workflow, return a JSON object & Process it.
+REST Annotations: Qualifier, Rest Controller, Controller, Lookup, Response Body, Request Body, Param, Required. Difference between Rest Controller & Controller Annotation.
+REST API’s Authentication, Authorization. Using Postman how to ensure Authentication, Using External APIs how to ensure Authentication.
+Functional Interface in Java 8: What is Functional Interface, Predicate, Inbuilt Functional Interface. Create a Functional Interface and show the usage.
+Runnable Using Lambda Expression.
+Null key & value in HashMap, Concurrent HashMap, HashSet.
+Hash Collision, HashMap Keys.
+Synchronized HashMap.
+Can ArrayList be a key in HashMap? What happens if the same hash key is found in HashMap & HashSet.
+Internal Working of ConCurrentHashMap(), how it handles fail fast/fail-safe.
+Synchronization: What is Serail Version in Synchronization, give an example of synchronization, how it works.
+Spring: Spring Vs Spring Boot, Bean Scopes, How will you inject prototype bean in singleton Bean, Bean Factory Vs Application Context, what are the spring bean scopes apart from singleton & prototype and how will you use them, create a Spring Boot Application, pom.xml usage, Maven Command Usage with install & build.
+Hibernate: Hibernate Caching, HQL, the difference between JDBC & Hibernate, Hibernate Annotations & Configurations. JPA Vs Hibernate.
+Spring Data JPA: Methods, Usage.
+Concurrency in JDBC Transaction, how to handle it?
+NIO Package in Java.
+Streams Functions in Java 8.
+Thread Synchronization, Mutual Exclusive, inter-thread communication.
+Java ShutDown hook.
+BLOB data type in Java, how to store it in DB.
+Connection between Java Application & JDBC (DB).
+ArrayList Vs Array Vs Vector.
+Default Method in Interface.
+Method References.
+Type Inference.
+Java 7: Try with Resource, String in Switch.
+Java 5: VarArgs, Static Imports, Autoboxing, Covariant Return Type.
+Hibernate: Merge, Cascade, Mapping.
+Thread Call Stack.
+Spring: AOP, SpringBoot Auto Configuration, Inversion Of Control, Dispatcher Servlet, @ Cachable & @ Caching, Caching in Java & Spring.
+XML Based Configuration.
+pom.xml : artifacts, dependency, etc.
+
